@@ -28,3 +28,7 @@ button{
 #white{
   background-color: white;
 }
+img{
+  height: inherit;
+  width: auto;
+}
